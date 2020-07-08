@@ -9,3 +9,8 @@ urllib3==1.24.3
 virtualenv==16.7.9
 virtualenvwrapper-win==1.2.5
 gunicorn==20.0.4
+whitenoise==5.0.1
+django-storages==1.8
+asgiref==3.2.3
+astroid==2.2.5
+botocore==1.15.39
